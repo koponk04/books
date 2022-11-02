@@ -63,5 +63,23 @@ The Product Development model is not a marketing, sales hiring, customer acquisi
 > Product Development model => When does Marketing find out whether the positioning, buzz, and demand creation activities actually work? After first customer ship [BAD]
 7. Premature Scaling
 8. Death Spiral: The Cost of Getting Product Launch Wrong
+> Premature scaling is the immediate cause of the Death Spiral
+
+> By the time of first customer ship, if the company does not understand its market and customers, the consequences unfold in a startup ritual.
 9. Not All Startups Are Alike
+> Since the four types of startups have very different rates of customer adoption and acceptance, their sales and marketing strategies differ dramatically. Even more serious, each Market Type has radically different cash needs.
+- Startups four basic categories
+a. Bringing a new product into an existing market
+b. Bringing a new product into a new market
+c. Bringing a new product into an existing market and trying to resegment that market as a low-cost entrant
+d. Bringing a new product into an existing market and trying to resegment that market as a niche entrant
 10. Unrealistic Expectations
+- The Product Development model can be relied upon to guide activities that have nothing to do with Product Development—namely, finding customers, a market, and a viable business model.
+- Customer Development will move on the same schedule as Product Development.
+- All types of startups and all new products will achieve acceptance and deployment at the same rate, namely starting at First Customer Ship.
+- Startups face enormous pressure from their investors to become profitable
+
+#### So What's The Alternative?
+
+1. The Technology Life Cycle Adoption Curve
+
