@@ -81,6 +81,27 @@ d. Bringing a new product into an existing market and trying to resegment that m
 
 #### So What's The Alternative?
 
-1. The Technology Life Cycle Adoption Curve
+**The Technology Life Cycle Adoption Curve**
 
 ![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/The%20Technology%20Life%20Cycle%20Adoption%20Curve.png)
+
+The Technology Life Cycle Adoption Curve provides true insight, because there are different types of customers in a company/product life cycle. However, this seductive curve leads early-stage entrepreneurs to four bad conclusions:
+
+- The curve naturally leads entrepreneurs to entertain dreams of glory in the mainstream market
+- The curve invites us to think of technology enthusiasts as one part of the customer adoption curve
+- The notion that a startup's customer base will grow in a smooth, continuous curve invites the tempting and dangerous idea that customer adoption is simply a sales execution problem.
+- The Technology Life Cycle Adoption Curve emphasize “execution and adoption.”. In the early stages of a startup, focusing on “execution” will put you out of business. Instead, you need a “learning and discovery” process so you can get the company to the point where you know what to execute.
+
+> The first step for a startup is to focus on learning and discovery processes, from starting the company to scaling the business. **Customer Development**
+
+**Customer Development: Common Sense Meets the Product Development Model**
+
+> Learning and discovering who a company's initial customers will be, and what markets they are in, requires a separate and distinct process from Product Development. Learning about customers and their problems as early in the development process as possible. The model is built on the idea that every startup has a set of definable milestones no amount of funding can accelerate. 
+
+====
+
+## CHAPTER 2 - The Path to Epiphany: The Customer Development Model
+
+### 
+
+#### 
