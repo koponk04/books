@@ -23,11 +23,12 @@
 The Product Development model is not a marketing, sales hiring, customer acquisition, or even a financing model. Yet startup companies have traditionally used a Product Development model to manage and pace all these non-engineering activities
 
 1. Where Are the Customers?
-- Look at the Product Development model and ask, “Where are the customers?”
+> Look at the Product Development model and ask, “Where are the customers?”
 2. The Focus on First Customer Ship Date
-- ~~Customer Ship Date~~ => Customer Discovery
+> ~~Customer Ship Date~~ => **Customer Discovery**
 - Most precious asset — cash.
 3. An Emphasis on Execution Instead of Learning and Discovery
+> **Customer Development process**
 - What are the problems our product solves?
 - Do customers perceive these problems as important or “must-have”?
 - If we're selling to businesses, who in a company has a problem our product could solve?
@@ -37,7 +38,6 @@ The Product Development model is not a marketing, sales hiring, customer acquisi
 - Who else has to approve the purchase?
 - How many customers do we need to be profitable?
 - What's the average order size?
-Customer Development process
 4. The Lack of Meaningful Sales, Marketing and Business Development Milestones
 5. The Use of a Product Development Methodology to Measure Sales
 6. The Use of a Product Development Methodology to Measure Marketing
