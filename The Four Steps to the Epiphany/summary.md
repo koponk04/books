@@ -98,7 +98,7 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 
 > Learning and discovering who a company's initial customers will be, and what markets they are in, requires a separate and distinct process from Product Development. Learning about customers and their problems as early in the development process as possible. The model is built on the idea that every startup has a set of definable milestones no amount of funding can accelerate. 
 
-====
+----
 
 ## CHAPTER 2 - The Path to Epiphany: The Customer Development Model
 
