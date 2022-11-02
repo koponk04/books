@@ -200,6 +200,78 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 
 ## CHAPTER 1 - Customer Discovery
 
-### 
+![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/Customer%20Discovery%20Summary.png)
 
-#### 
+### The Customer Discovery Philosophy
+
+#### Develop the Product for the Few, Not the Many
+
+#### Earlyvangelists: The Most Important Customers You'll Ever Know
+
+#### Start Development Based on the Vision
+
+### Overview Of The Customer Discovery Process
+
+#### The Customer Development Team
+
+### Phase 0: Get Buy-In
+
+### Phase 1: State Your Hypotheses
+
+- **The Product**
+
+  * First Product Development/Customer Development Synchronizaton Meeting
+    * Product features
+    * Product benefits
+    * Intellectual property
+    * Dependency analysis
+    * Product delivery schedule
+    * Total cost of ownership/adoption
+
+- **Customer Hypotheses**
+  * Types of customers
+  * Customer problems
+  * A day in the life of your customers
+  * Organizational map and customer influence map
+  * ROI (return on investment) justification
+  * Minimum feature set
+
+- **Channel and Pricing Hypotheses**
+
+- **Demand Creation Hypotheses**
+
+- **Market Type Hypotheses**
+
+- **Competitive Hypotheses**
+
+### Phase 2: Test And Qualify Your Hypotheses
+
+- **First Customer Contacts**
+
+- **The Customer Problem Presentation**
+
+- **In-Depth Customer Understanding**
+
+- **Market Knowledge**
+
+### Phase 3: Test And Qualify The Product Concept
+
+- **First Company Reality Check**
+
+- **Product Presentation**
+
+- **Yet More Customer Visits**
+
+- **Second Company Reality Check**
+
+- **First Advisory Board Members**
+
+### Phase 4: Verify
+
+- **Verify the Problem**
+
+- **Verify the product solution**
+
+- **Verify the business model**
+
+- **Assess whether to iterate or exit**
