@@ -109,6 +109,8 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 ![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/The%20Customer%20Development%20Model.png)
 
 > The circles and arrows highlight the iterative nature of each step
+> The first three steps can be accomplished with a staff that can fit in a phone booth.
+> Goal: proving there is a profitable, scalable business for the company
 
 1. Customer Discovery
 
@@ -140,3 +142,64 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 - Where the company transitions from its informal, learning and discovery-oriented Customer Development team into formal departments with VPs of Sales, Marketing and Business Development
 
 #### The Four Types Of Startup Markets
+
+> I don't understand what happened. We did everything that worked in our last startup
+
+> Even with essentially identical products and team, "A" would have failed if it had used the same sales and marketing strategy used successfully at "B".
+> **It is a fallacy to believe the strategy and tactics that worked for one startup should be appropriate in another. That's because Market Type changes everything a company does**
+
+![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/Market%20Type.png)
+
+1. **A New Product in an Existing Market**
+
+- If your product offers higher performance than what is currently offered
+- The users and the market are known, but so are the competitors
+- Competitors define the market. The basis of competition is therefore all about the product and product features.
+
+2. **A New Product in a New Market**
+
+- When a company creates a large customer base that couldn't do something before
+- [GOOD] Your product features are at first irrelevant because there are no competitors (except other pesky startups)
+- [BAD] The users and the market are undefined and unknown.
+- [PROBLEM] How to convince a set of customers your vision is not a hallucination
+- [PROBLEM] How to manage the cash-burn rate during the adoption phase
+- [PROBLEM] How to manage and find investors who are patient and have deep pockets.
+
+3. **A New Product Attempting to Resegment an Existing Market: Low Cost**
+
+- Segmentation means you've picked a clear and distinct spot in customers’ minds that is unique, understandable, and, most important, concerns something they value and want and need now.
+- Are there customers at the low end of an existing marketing who will buy “good enough” performance if they could get it at a substantially lower price?
+- Needs a long-term product plan that uses low cost as market entry to eventual profitability and up-market growth
+
+4. **A New Product Attempting to Resegment an Existing Market: Niche**
+
+- Would some part of this market buy a new product designed to address their specific needs? Even if it cost more? Or had worse performance in an aspect of the product irrelevant to this niche?
+- Faces entrenched competitors who will fiercely defend their profitable markets
+
+##### Market Type and the Customer Development Process
+
+![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/Market%20Type%20Characteristics.png)
+
+#### Synchronizing Product Development And Customer Development
+
+- Customer Development and Product Development are parallel processes
+- Customer Development : Customer-centric activities outside the building
+- Product Development: Product-centric activities taking place internally
+- In big companies, the product spec is market-driven; in startups, the marketing is product-driven.
+
+> In each step—Customer Discovery, Customer Validation, Customer Creation and Company Building—the Product Development and Customer Development teams hold a series of formal “synchronization” meetings. Unless the two groups agree, Customer Development does not move forward to the next step.
+
+> In Customer Discovery, the Customer Development team strives to validate the product spec, not come up with a new set of features. Only if customers do not agree there's a problem to be solved, think the problem is not painful, or don't deem the product spec solves their problem, do the Customer and Product Development teams reconvene to add or refine features.
+
+> Also in Customer Discovery, when customers have consistently said that new or modified product features are required, the VP of Product Development goes out with the team to listen to customer feedback before new features are added.
+
+> In Customer Validation, key members of the Product Development team go out in front of customers as part of the pre-sales support team.
+
+> In Company Building, the Product Development team does installations and support for initial product while training the support and service staff.
+
+
+## CHAPTER 1 - Customer Discovery
+
+### 
+
+#### 
