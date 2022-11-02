@@ -29,6 +29,7 @@ The Product Development model is not a marketing, sales hiring, customer acquisi
 - Most precious asset — cash.
 3. An Emphasis on Execution Instead of Learning and Discovery
 > **Customer Development process**
+> Product Development model => its Linear Flow (Not **Recursive Circles**)
 - What are the problems our product solves?
 - Do customers perceive these problems as important or “must-have”?
 - If we're selling to businesses, who in a company has a problem our product could solve?
@@ -39,8 +40,24 @@ The Product Development model is not a marketing, sales hiring, customer acquisi
 - How many customers do we need to be profitable?
 - What's the average order size?
 4. The Lack of Meaningful Sales, Marketing and Business Development Milestones
+> What kind of objectives would a startup want or need?
+> A startup should focus on reaching a deep understanding of customers and their problems, their pains, and the jobs they need done to discover a repeatable roadmap of how they buy, and building a financial model that results in profitability.
+- How well do we understand what problems customers have?
+- How much will they pay to solve those problems?
+- Do our product features solve these problems?
+- Do we understand our customers’ business?
+- Do we understand the hierarchy of customer needs?
+- Have we found visionary customers, ones who will buy our product early?
+- Is our product a must-have for these customers?
+- Do we understand the sales roadmap well enough to consistently sell the product?
+- Do we understand what we need to be profitable?
+- Are the sales and business plans realistic, scalable, and achievable?
+- What do we do if our model turns out to be wrong?
 5. The Use of a Product Development Methodology to Measure Sales
+> Product Development Waterfall - Customer Development activities => They both measure something, but not the thing you wanted.
 6. The Use of a Product Development Methodology to Measure Marketing
+> In a startup no facts exist inside the building, only opinions.
+> Product Development model => When does Marketing find out whether the positioning, buzz, and demand creation activities actually work? After first customer ship [BAD]
 7. Premature Scaling
 8. Death Spiral: The Cost of Getting Product Launch Wrong
 9. Not All Startups Are Alike
