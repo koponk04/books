@@ -83,3 +83,4 @@ d. Bringing a new product into an existing market and trying to resegment that m
 
 1. The Technology Life Cycle Adoption Curve
 
+![image](https://user-images.githubusercontent.com/17003188/199405983-e311e02c-fb9d-4550-8abe-73aa3ecde234.png)
