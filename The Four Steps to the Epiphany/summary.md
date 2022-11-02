@@ -102,6 +102,16 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 
 ## CHAPTER 2 - The Path to Epiphany: The Customer Development Model
 
-### 
+### The Four Steps To The Epiphany
 
-#### 
+#### The Customer Development Model
+
+![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/The%20Customer%20Development%20Model.png)
+
+> The circles and arrows highlight the iterative nature of each step
+
+1. Customer Discovery
+2. Customer Validation
+3. Customer Creation
+4. Company Building
+
