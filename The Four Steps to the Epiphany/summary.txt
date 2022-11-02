@@ -15,6 +15,7 @@ The Product Development Model
     What's Wrong?
     The Product Development model is not a marketing, sales hiring, customer acquisition, or even a financing model. Yet startup companies have traditionally used a Product Development model to manage and pace all these non-engineering activities
     1. Where Are the Customers?
+        ~~Customer Ship Date~~ => Customer Discovery
     2. The Focus on First Customer Ship Date
     3. An Emphasis on Execution Instead of Learning and Discovery
     4. The Lack of Meaningful Sales, Marketing and Business Development Milestones
