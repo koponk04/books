@@ -111,7 +111,32 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 > The circles and arrows highlight the iterative nature of each step
 
 1. Customer Discovery
+
+- Finding out who the customers for your product are and whether the problem you believe you are solving is important to them.
+- Discovering whether the problem, product and customer hypotheses in your business plan are correct.
+- The goal of Customer Development is not to collect feature lists from prospective customers, nor is it to run lots of focus groups.
+- The founders and Product Development team define the first product. The job of the Customer Development team is to see whether there are customers and a market for that vision.
+- Lessons learned and what didn't work.
+
 2. Customer Validation
+
+- Build a repeatable sales roadmap for the sales and marketing teams that will follow later.
+- Goal 1 + 2
+  * Verifies your market
+  * Locates your customers
+  * Tests the perceived value of your product
+  * Identifies the economic buyer
+  * Establishes your pricing and channel strategy
+  * Checks out your sales cycle and process
+- If, and only if, you find a group of repeatable customers with a repeatable sales process, and then find those customers yield a profitable business model, do you move to the next step (scaling up and crossing the Chasm).
+
 3. Customer Creation
+
+- To create end-user demand and drive that demand into the company's sales channel
+- Allowing the company to control its cash-burn rate and protect its most precious asset.
+
 4. Company Building
 
+- Where the company transitions from its informal, learning and discovery-oriented Customer Development team into formal departments with VPs of Sales, Marketing and Business Development
+
+#### The Four Types Of Startup Markets
