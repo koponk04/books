@@ -197,24 +197,47 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 
 > In Company Building, the Product Development team does installations and support for initial product while training the support and service staff.
 
-
-## CHAPTER 1 - Customer Discovery
-
 ![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/Customer%20Discovery%20Summary.png)
+
+## CHAPTER 3 - Customer Discovery
+
+![image](https://github.com/koponk04/books/raw/development-path-to-epiphany/The%20Four%20Steps%20to%20the%20Epiphany/images/Customer%20Discovery%20-%20Overview%20of%20the%20Process.png)
 
 ### The Customer Discovery Philosophy
 
-#### Develop the Product for the Few, Not the Many
+- **Wrong**
+* Understand the needs and wants of all customers
+* Make a list of all the features customers want before they buy your product
+* Hand product development a features list of the sum of all customer requests
+* Hand product development a detailed marketing requirements document
+* Run focus groups and test customers’ reactions to your product to see if they will buy
 
-#### Earlyvangelists: The Most Important Customers You'll Ever Know
-
-#### Start Development Based on the Vision
+- This is startups philosophy : Develop the Product for the Few, Not the Many
+- Earlyvangelists: The Most Important Customers You'll Ever Know
+  * The customer has a problem
+  * The customer understands he or she has a problem
+  * The customer is actively searching for a solution and has a timetable for finding it
+  * The problem is painful enough the customer has cobbled together an interim solution (earlyvangelist)
+  * The customer has committed, or can quickly acquire, budget dollars to solve the problem (earlyvangelist)
+- Start Development Based on the Vision
+  * For the first product in a startup, your initial purpose in meeting customers is not to gather feature requests so you can change the product; it is to find customers for the product you are already building.
+  * Customer Discovery : To identify those key visionary customers, understand their needs, and verify your product solves a problem they are willing to pay to have solved—or not
 
 ### Overview Of The Customer Discovery Process
 
+> Phase 1 is a rigorous process of writing a series of briefs that capture the hypotheses embodied in your company's vision and business model. These hypotheses are the assumptions about your product, customers, pricing, demand, market, and competition you will test in the remainder of this step.
+
+> In Phase 2 you qualify those assumptions by testing them in front of potential customers. Little talking and a lot of listening. Your goal is to understand your customers and their problems, and arrive at a deep understanding of their business, workflow, organization, and product needs. You then return to your company, integrate all you learned, update Engineering with customer feedback, and jointly revise your product and customer briefs.
+
+> In Phase 3 you take your revised product concept and test its features in front of customers. The goal is not to sell the product but to validate the Phase 1 hypotheses by having customers say, “Yes, these features solve our problems.”
+
 #### The Customer Development Team
+- **"Special Team"**
 
 ### Phase 0: Get Buy-In
+- Must get all the players educated. There must be agreement between investors and founders about the process, key hires, and values. You must make sure all the players—founders, key execs, and the board—understand the differences among Product Development, Customer Development and Market Type, and that they buy into the value of differentiating between them.
+- Create Mission Statement
+- Create Core Value
 
 ### Phase 1: State Your Hypotheses
 
@@ -275,3 +298,10 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 - **Verify the business model**
 
 - **Assess whether to iterate or exit**
+
+
+## KEY POINT
+
+- Customer Development
+- Market Type
+- Mission Statement
