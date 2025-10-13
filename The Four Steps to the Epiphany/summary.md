@@ -206,11 +206,11 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 ### The Customer Discovery Philosophy
 
 - **Wrong**
-* Understand the needs and wants of all customers
-* Make a list of all the features customers want before they buy your product
-* Hand product development a features list of the sum of all customer requests
-* Hand product development a detailed marketing requirements document
-* Run focus groups and test customers’ reactions to your product to see if they will buy
+  * Understand the needs and wants of all customers
+  * Make a list of all the features customers want before they buy your product
+  * Hand product development a features list of the sum of all customer requests
+  * Hand product development a detailed marketing requirements document
+  * Run focus groups and test customers’ reactions to your product to see if they will buy
 
 - This is startups philosophy : Develop the Product for the Few, Not the Many
 - Earlyvangelists: The Most Important Customers You'll Ever Know
@@ -245,14 +245,30 @@ The Technology Life Cycle Adoption Curve provides true insight, because there ar
 
   * First Product Development/Customer Development Synchronizaton Meeting
     * Product features
+      * A one-page document consisting of one-or two-sentence summaries of the top 10 (or fewer) features of the product.
     * Product benefits
+      * What benefits the product will deliver to customers.
     * Intellectual property
+      * Summary of assumptions and questions about intellectual property (IP)
     * Dependency analysis
+      * What has to happen that is out of our control
+      * How to measure whether each external change is happening when you need it to
     * Product delivery schedule
+      * Specify not only the date of the first release but the delivery and feature schedule for follow-on products or multiple releases of the product as far out as the team can see (up to 18 months)
+      * First pass at a schedule is not set in stone
     * Total cost of ownership/adoption
+      * Estimates the total cost to customers of buying and using your product
 
 - **Customer Hypotheses**
   * Types of customers
+    * Are there different types of customers we should approach when we sell our product?
+    * Some of the customer types
+      * End Users
+        * The day-to-day users of the product
+        * In some cases the end user may have the least influence in the sales process. (eg: Children=End Users but Parent=Buyers)
+      * Influencers
+        * All the people who think they have a stake in a product coming into their company or home.
+      
   * Customer problems
   * A day in the life of your customers
   * Organizational map and customer influence map
